@@ -1,6 +1,6 @@
 import requests
 
-print("HTTP-response MADE BY aCoDeR RUNNING")
+print("HTTP-response MADE BY aCoDeR")
 print("UNDER MIT LIECENCE")
 
 target = input("TARGET SITE (for example: http://examplesite.com): ")
